@@ -42,7 +42,7 @@ def bfs(visited, graph, node):  # Function for BFS
 ```
 
 ### Output:
-![BFS OP](https://github.com/user-attachments/assets/ab2e288f-e682-4295-ba86-e298480f93d1)
+![image](https://github.com/user-attachments/assets/dde1f6c9-e87b-4041-a26e-66b31825f951)
 
 
 
