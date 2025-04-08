@@ -1,5 +1,5 @@
 # Ex.No: 5   Logic Programming – Factorial of number   
-### DATE: 21/3/25                                                                           
+### DATE:                                                                           
 ### REGISTER NUMBER : 212222043003
 ### AIM: 
 To  write  a logic program for finding the factorial of given number using SWI-PROLOG. 
@@ -23,9 +23,8 @@ factorial(A,B) :-
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/402de384-3b83-419a-ba31-42e6cdf3508c)
 
-
-![IMG_5990](https://github.com/user-attachments/assets/f9b3d207-49b9-4d95-9e99-556eda63c7be)
 
 ### Result:
 Thus the factorial of given number was found by logic programming. 
