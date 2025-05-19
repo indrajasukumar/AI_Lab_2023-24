@@ -83,7 +83,8 @@ Step 7: Stop the program.<br>
 ```
 
 ### Output/Plan:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f4ae34cc-3cef-424f-8254-fcae524c6ff6)
+
 
 
 
